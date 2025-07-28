@@ -42,7 +42,7 @@ A simple yet exciting car racing game built in Python using the [pygame](https:/
  - `img/back_ground.jpg`: Background road image
 
 4. **Run the game:**
-- python <scriptname>.py
+- python <scriptname> .py
 
 Replace `<scriptname>.py` with your Python file name (e.g. `car_game.py`).
 
@@ -63,10 +63,6 @@ Replace `<scriptname>.py` with your Python file name (e.g. `car_game.py`).
 
 - Original gameplay inspiration and some sprites credited to Anuj Kumar (`cdac.anuj@gmail.com`) as referenced in the code.
 - Built using the [pygame](https://pygame.org/) game development framework.
-
-## License
-
-This project is for educational and personal use.
 
 ---
 
